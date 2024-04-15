@@ -1,10 +1,10 @@
-# ✔️ Olá! Este é o meu arquivo "leia-me" enquanto estou mergulhando no aprendizado de HTML e CSS! ✔️
+# 👋 Olá! Este é o meu arquivo "leia-me" enquanto estou mergulhando no aprendizado de HTML e CSS! 👋
 
 Neste arquivo, estou reunindo informações essenciais para minha própria jornada de aprendizado em desenvolvimento web com HTML e CSS.
 
 ![Foto de William](https://github.com/uiubueno/alura-curso/assets/165913163/eaa505c2-f04a-4305-a831-4ef689645860)
 
-## 🔨 Aprendizados do projeto 🔨
+## 🛠️ Aprendizados do projeto 🛠️
 
 * Ambientes de Desenvolvimento: Estou explorando diferentes ambientes de desenvolvimento e escolhendo aquele que melhor se adapta às minhas necessidades e preferências.
 
@@ -26,6 +26,10 @@ Neste arquivo, estou reunindo informações essenciais para minha própria jorna
 
 ### Linkedin: https://www.linkedin.com/in/william-bueno-peixoto/
 
-## Considerações:
+## 📁 Acesso ao projeto
+
+[Veja o projeto final do curso em funcionamento](https://portfolio-william-bueno.vercel.app/)
+
+## 📚 Considerações:
 
 Este guia está servindo como um ponto de partida sólido para minha jornada no mundo do desenvolvimento web. Estou explorando cada tópico com curiosidade e praticando regularmente para aprimorar minhas habilidades.
