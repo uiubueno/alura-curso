@@ -1,6 +1,8 @@
-Olá! Este é o meu arquivo "leia-me" enquanto estou mergulhando no aprendizado de HTML e CSS!
+✔️ Olá! Este é o meu arquivo "leia-me" enquanto estou mergulhando no aprendizado de HTML e CSS! ✔️
 
 Neste arquivo, estou reunindo informações essenciais para minha própria jornada de aprendizado em desenvolvimento web com HTML e CSS.
+
+🔨 Aprendizados do projeto 🔨
 
 Ambientes de Desenvolvimento: Estou explorando diferentes ambientes de desenvolvimento e escolhendo aquele que melhor se adapta às minhas necessidades e preferências.
 
